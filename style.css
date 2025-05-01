@@ -1,0 +1,41 @@
+
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background: #f0f2f5;
+  color: #333;
+}
+header {
+  background: #000;
+  color: #fff;
+  padding: 2rem;
+  text-align: center;
+}
+.btn {
+  display: inline-block;
+  margin-top: 1rem;
+  padding: 0.5rem 1rem;
+  background: #007bff;
+  color: #fff;
+  text-decoration: none;
+  border-radius: 5px;
+}
+.pricing {
+  padding: 2rem;
+  text-align: center;
+}
+.card {
+  background: #fff;
+  display: inline-block;
+  margin: 1rem;
+  padding: 1rem;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+footer {
+  text-align: center;
+  padding: 1rem;
+  background: #000;
+  color: #fff;
+}
